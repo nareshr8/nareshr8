@@ -6,6 +6,12 @@ Developing PySpark, Machine Learning, Java and Native Android based Applications
 
 Have worked under various clients such as Walmart, Home Depot, Century Link, Qantas, Nielsen, Vodafone Hutchison Australia since Nov 2011.
 
+
+
+[<img align="left" alt="nareshr8.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="nareshr8 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="nareshr8 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
 ## <img src="https://github.com/nareshr8/nareshr8/blob/master/pst.svg" height="20" width="20" align="center"/> Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Using TF-Records on Spark Cluster](https://nareshr8.github.io/ml_posts/tf-records/spark/py-spark/performance/2020/07/01/TF-Records-on-Spark.html)
@@ -53,3 +59,7 @@ Also, I am also certified in [Android Application Development](https://www.cours
 
 
 <sub><sup>Image Credits: <a href="http://www.onlinewebfonts.com">Online Web Fonts</a></sup></sub>
+
+[website]: https://nareshr8.github.io
+[twitter]: https://twitter.com/nareshr8
+[linkedin]: https://linkedin.com/in/nareshr8
