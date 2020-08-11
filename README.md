@@ -1,6 +1,6 @@
 
 
-### <img src="https://github.com/nareshr8/nareshr8/app.svg" /> Application Developer at Tata Consultancy Services 
+### <img src="https://github.com/nareshr8/nareshr8/blob/master/app.svg" height="20" width="20"/> Application Developer at Tata Consultancy Services 
 
 Developing Machine Learning, Java and Native Android Applications. 
 
