@@ -18,6 +18,8 @@ Have worked under various clients such as Walmart, Home Depot, Century Link, Qan
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=nareshr8&show_icons=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nareshr8&layout=compact)](https://github.com/nareshr8/github-readme-stats)
+
 
 ### <img src="https://github.com/nareshr8/nareshr8/blob/master/edu.svg" height="20" width="20" align="center"/> Education
 
