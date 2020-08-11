@@ -2,7 +2,7 @@
 
 ### <img src="https://github.com/nareshr8/nareshr8/blob/master/app.svg" height="20" width="20" align="center"/> Application Developer at Tata Consultancy Services 
 
-Developing PySpark, Machine Learning, Java and Native Android based Applications. 
+Developing Data Engineering, Machine Learning, Java and Native Android based Applications. 
 
 Have worked under various clients such as Walmart, Home Depot, Century Link, Qantas, Nielsen, Vodafone Hutchison Australia since Nov 2011.
 
