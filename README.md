@@ -1,11 +1,16 @@
-
-
 ### <img src="https://github.com/nareshr8/nareshr8/blob/master/app.svg" height="20" width="20" align="center"/> Application Developer at Tata Consultancy Services
 
 Developing Data Engineering, Machine Learning, Java and Native Android based Applications. 
 
 Have worked under various clients such as Walmart, Home Depot, Century Link, Qantas, Nielsen, Vodafone Hutchison Australia since Nov 2011.
 
+### Technologies
+<img src="https://img.shields.io/static/v1?label=Python&message=3.x&color=3776ab&logo=python"/> <img src="https://img.shields.io/static/v1?label=spark&message=2.%2B&color=e25a1c&logo=apache-spark"/> <img src="https://img.shields.io/static/v1?label=PyTorch&message=1.5%2B&color=ee4c2c&logo=pytorch"> <img src="https://img.shields.io/static/v1?label=TensorFlow&message=1,2%2B&color=FF6F00&logo=tensorflow"> <img src="https://img.shields.io/static/v1?label=Pandas&message=1.1%2B&color=150458&logo=pandas"> <img src="https://img.shields.io/static/v1?label=cloud&message=azure&color=0089d6&logo=microsoft-azure"> <img src="https://img.shields.io/static/v1?label=Spring&message=5.X&color=6db33f&logo=spring"/> <img src="https://img.shields.io/static/v1?label=Java&message=7,8&color=007396&logo=java"/>
+
+
+### Connect
+
+<img src="https://img.shields.io/github/followers/nareshr8?style=social"/> <img src="https://img.shields.io/twitter/follow/nareshr8?label=Follow&style=social"/> <img src="https://img.shields.io/static/v1?label=LinkedIn&message=Connect&color=0077B5&logo=linkedin"/> <img src="https://img.shields.io/static/v1?label=Blog&message=nareshr8&color=12100E&logo=medium"/>
 
 ## <img src="https://github.com/nareshr8/nareshr8/blob/master/pst.svg" height="20" width="20" align="center"/> Blog Posts
 <!-- BLOG-POST-LIST:START -->
@@ -16,10 +21,11 @@ Have worked under various clients such as Walmart, Home Depot, Century Link, Qan
 - [Understanding of Fast AI - Course V3 (Part 1 - Lesson 1)](https://nareshr8.github.io/ml_posts/fast-ai/2018/10/31/fastai-p1-l1.html)
 <!-- BLOG-POST-LIST:END -->
 
+### Status
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=nareshr8&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nareshr8&layout=compact&hide=jupyter%20notebook,HTML)](https://github.com/nareshr8/github-readme-stats)
+[![Naresh StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=1367953&layout=compact)](https://stackoverflow.com/users/1367953/naresh-r)
 
 
 ### <img src="https://github.com/nareshr8/nareshr8/blob/master/edu.svg" height="20" width="20" align="center"/> Education
@@ -42,12 +48,7 @@ I have developed machine learning applications and certified for [Deep Learning 
 
 Also, I am also certified in [Android Application Development](https://www.coursera.org/account/accomplishments/certificate/44BEBZEAE6) .I have developed few android apps myself and put on [Play Store](https://play.google.com/store/apps/developer?id=Hayagriv)
 <br><br><br>
-[<img align="left" alt="nareshr8.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website][<img align="left" alt="nareshr8 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter][<img align="left" alt="nareshr8 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br>
 <br><br><br><br><br><br><br>
 <sub><sup>Image Credits: <a href="http://www.onlinewebfonts.com">Online Web Fonts</a></sup></sub>
-
-[website]: https://nareshr8.github.io
-[twitter]: https://twitter.com/nareshr8
-[linkedin]: https://linkedin.com/in/nareshr8
