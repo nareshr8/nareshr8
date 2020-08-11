@@ -27,4 +27,14 @@ I have developed passion towards machine learning and started working for more t
 Also, I am also certified in [Android Application Development](https://www.coursera.org/account/accomplishments/certificate/44BEBZEAE6) .I have developed few android apps myself and put on [Play Store](https://play.google.com/store/apps/developer?id=Hayagriv)
 
 
+
+
+
+
+
+
+
+
+
+
 Image Credits: <a href="http://www.onlinewebfonts.com">Online Web Fonts</a>
