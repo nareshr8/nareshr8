@@ -41,7 +41,7 @@ I <img src="https://github.com/nareshr8/nareshr8/blob/master/hrt.svg" height="15
 I have developed passion towards machine learning and started working for more than 1.5 years. Have been certified for [Deep Learning Specialisation](https://www.coursera.org/account/accomplishments/specialization/certificate/NZTTSED2DZGA) in Coursera.
 
 Also, I am also certified in [Android Application Development](https://www.coursera.org/account/accomplishments/certificate/44BEBZEAE6) .I have developed few android apps myself and put on [Play Store](https://play.google.com/store/apps/developer?id=Hayagriv)
-<br>
+<br><br><br>
 [<img align="left" alt="nareshr8.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website][<img align="left" alt="nareshr8 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter][<img align="left" alt="nareshr8 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br>
