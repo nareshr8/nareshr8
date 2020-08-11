@@ -4,7 +4,7 @@ Developing Data Engineering, Machine Learning, Java and Native Android based App
 
 Have worked under various clients such as Walmart, Home Depot, Century Link, Qantas, Nielsen, Vodafone Hutchison Australia since Nov 2011.
 
-### Technologies
+### <img src="https://github.com/nareshr8/nareshr8/blob/master/tch.svg" height="20" width="20" align="center"/> Technologies
 <img src="https://img.shields.io/static/v1?label=Python&message=3.x&color=3776ab&logo=python"/> <img src="https://img.shields.io/static/v1?label=spark&message=2.%2B&color=e25a1c&logo=apache-spark"/> <img src="https://img.shields.io/static/v1?label=PyTorch&message=1.5%2B&color=ee4c2c&logo=pytorch"> <img src="https://img.shields.io/static/v1?label=TensorFlow&message=1,2%2B&color=FF6F00&logo=tensorflow"> <img src="https://img.shields.io/static/v1?label=Pandas&message=1.1%2B&color=150458&logo=pandas"> <img src="https://img.shields.io/static/v1?label=cloud&message=azure&color=0089d6&logo=microsoft-azure"> <img src="https://img.shields.io/static/v1?label=Spring&message=5.X&color=6db33f&logo=spring"/> <img src="https://img.shields.io/static/v1?label=Java&message=7,8&color=007396&logo=java"/>
 
 
