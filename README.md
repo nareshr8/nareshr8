@@ -25,3 +25,6 @@ I <img src="https://github.com/nareshr8/nareshr8/blob/master/hrt.svg" height="15
 I have developed passion towards machine learning and started working for more than 1.5 years. Have been certified for [Deep Learning Specialisation](https://www.coursera.org/account/accomplishments/specialization/certificate/NZTTSED2DZGA) in Coursera.
 
 Also, I am also certified in [Android Application Development](https://www.coursera.org/account/accomplishments/certificate/44BEBZEAE6) .I have developed few android apps myself and put on [Play Store](https://play.google.com/store/apps/developer?id=Hayagriv)
+
+
+Image Credits: <a href="http://www.onlinewebfonts.com">Online Web Fonts</a>
