@@ -7,7 +7,13 @@ Developing PySpark, Machine Learning, Java and Native Android based Applications
 Have worked under various clients such as Walmart, Home Depot, Century Link, Qantas, Nielsen, Vodafone Hutchison Australia since Nov 2011.
 
 ## <img src="https://github.com/nareshr8/nareshr8/blob/master/pst.svg" height="20" width="20" align="center"/> Blog Posts
-<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+- [Using TF-Records on Spark Cluster](https://nareshr8.github.io/ml_posts/tf-records/spark/py-spark/performance/2020/07/01/TF-Records-on-Spark.html)
+- [X-Ray Diffractions Detector](https://nareshr8.github.io/ml_posts/image-classifer/fastai2/2020/04/30/Multi-Label-Image-Classification.html)
+- [Classical Dances of India](https://nareshr8.github.io/ml_posts/image-classifer/fastai2/2020/04/02/Image-Classification.html)
+- [Understanding Linear Regression](https://nareshr8.github.io/ml_posts/pytorch/fast-ai/2019/01/16/linear-regression-coding.html)
+- [Understanding of Fast AI - Course V3 (Part 1 - Lesson 1)](https://nareshr8.github.io/ml_posts/fast-ai/2018/10/31/fastai-p1-l1.html)
+<!-- BLOG-POST-LIST:END -->
 
 ### <img src="https://github.com/nareshr8/nareshr8/blob/master/edu.svg" height="20" width="20" align="center"/> Education
 
