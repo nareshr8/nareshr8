@@ -6,6 +6,9 @@ Developing PySpark, Machine Learning, Java and Native Android based Applications
 
 Have worked under various clients such as Walmart, Home Depot, Century Link, Qantas, Nielsen, Vodafone Hutchison Australia since Nov 2011.
 
+## <img src="https://github.com/nareshr8/nareshr8/blob/master/pst.svg" height="20" width="20" align="center"/> Blog Posts
+<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
+
 ### <img src="https://github.com/nareshr8/nareshr8/blob/master/edu.svg" height="20" width="20" align="center"/> Education
 
 M.Tech in Software Systems - BITS Pilani (2013-2015)
