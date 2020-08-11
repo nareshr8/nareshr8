@@ -38,7 +38,7 @@ Playing Cricket, Listening Music, watching YouTube and now starting to blog
 
 I <img src="https://github.com/nareshr8/nareshr8/blob/master/hrt.svg" height="15" width="15" align="center"/> programming. I love to code and develop interesting stuff myself.
 
-I have developed passion towards machine learning and started working for more than 1.5 years. Have been certified for [Deep Learning Specialisation](https://www.coursera.org/account/accomplishments/specialization/certificate/NZTTSED2DZGA) in Coursera.
+I have developed machine learning applications and certified for [Deep Learning Specialisation](https://www.coursera.org/account/accomplishments/specialization/certificate/NZTTSED2DZGA) and [End-to-End Machine Learning with TensorFlow on GCP](https://coursera.org/share/8da2e069f05edd1602f0cc4abc21070c) in Coursera. Check my blogs [here](https://nareshr8.github.io/ml_posts/) for more info. 
 
 Also, I am also certified in [Android Application Development](https://www.coursera.org/account/accomplishments/certificate/44BEBZEAE6) .I have developed few android apps myself and put on [Play Store](https://play.google.com/store/apps/developer?id=Hayagriv)
 <br><br><br>
