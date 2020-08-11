@@ -10,7 +10,7 @@ Have worked under various clients such as Walmart, Home Depot, Century Link, Qan
 
 ### <img src="https://github.com/nareshr8/nareshr8/blob/master/cnt.svg" height="20" width="20" align="center"/> Connect
 
-<a href="https://github.com/nareshr8"><img src="https://img.shields.io/github/followers/nareshr8?style=social"/></a> <a href="https://twitter.com/nareshr8"><img src="https://img.shields.io/twitter/follow/nareshr8?label=Follow&style=social"/></a> <a href="https://www.linkedin.com/in/nareshr8/"><img src="https://img.shields.io/static/v1?label=LinkedIn&message=Connect&color=0077B5&logo=linkedin"/></a> <a href="https://nareshr8.github.io/ml_posts"><img src="https://img.shields.io/static/v1?label=Blog&message=nareshr8&color=12100E&logo=medium"/></a>
+<a href="https://github.com/nareshr8"><img src="https://img.shields.io/github/followers/nareshr8?style=social"/></a> <a href="https://twitter.com/nareshr8"><img src="https://img.shields.io/twitter/follow/nareshr8?label=Follow&style=social"/></a> <a href="https://www.linkedin.com/in/nareshr8/"><img src="https://img.shields.io/static/v1?label=LinkedIn&message=nareshr8&color=0077B5&logo=linkedin"/></a> <a href="https://nareshr8.github.io/ml_posts"><img src="https://img.shields.io/static/v1?label=Blog&message=nareshr8&color=12100E&logo=medium"/></a>
 
 ## <img src="https://github.com/nareshr8/nareshr8/blob/master/pst.svg" height="20" width="20" align="center"/> Blog Posts
 <!-- BLOG-POST-LIST:START -->
