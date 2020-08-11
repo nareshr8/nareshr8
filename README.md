@@ -15,6 +15,10 @@ Have worked under various clients such as Walmart, Home Depot, Century Link, Qan
 - [Understanding of Fast AI - Course V3 (Part 1 - Lesson 1)](https://nareshr8.github.io/ml_posts/fast-ai/2018/10/31/fastai-p1-l1.html)
 <!-- BLOG-POST-LIST:END -->
 
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=nareshr8&show_icons=true)
+
+
 ### <img src="https://github.com/nareshr8/nareshr8/blob/master/edu.svg" height="20" width="20" align="center"/> Education
 
 M.Tech in Software Systems - BITS Pilani (2013-2015)
