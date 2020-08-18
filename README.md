@@ -1,4 +1,4 @@
-### <img src="https://github.com/nareshr8/nareshr8/blob/master/app.svg" height="20" width="20" align="center"/> Application Developer at Tata Consultancy Services
+### <img src="https://github.com/nareshr8/nareshr8/blob/master/app.svg" height="20" width="20" align="center"/> Application Developer at Tata Consultancy Services ![Visits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/nareshr8)]
 
 Developing Data Engineering, Machine Learning, Java and Native Android based Applications. 
 
@@ -47,6 +47,7 @@ I have developed machine learning applications and certified for [Deep Learning 
 
 Also, I am also certified in [Android Application Development](https://www.coursera.org/account/accomplishments/certificate/44BEBZEAE6) .I have developed few android apps myself and put on [Play Store](https://play.google.com/store/apps/developer?id=Hayagriv)
 <br><br><br>
+
 
 <br>
 <br><br><br><br><br><br><br>
