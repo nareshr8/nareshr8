@@ -50,8 +50,12 @@ Also, I am also certified in [Android Application Development](https://www.cours
 
 Python Libraries:
 
-[![Help Stack](https://static.pepy.tech/personalized-badge/helpstack?period=total&units=international_system&left_color=black&right_color=orange&left_text=Help%20Stack)](https://pepy.tech/project/helpstack)
+<a href="https://pepy.tech/project/helpstack">
+<img src="https://static.pepy.tech/personalized-badge/helpstack?period=total&units=international_system&left_color=black&right_color=orange&left_text=Help%20Stack"/></a>
 
+
+<a href="https://pepy.tech/project/pythonfilegenerator">
+<img src="https://static.pepy.tech/personalized-badge/pythonfilegenerator?period=total&units=international_system&left_color=black&right_color=orange&left_text=PythonFileGenerator"/></a>
 <br>
 <br><br><br><br><br><br><br>
 <sub><sup>Image Credits: <a href="http://www.onlinewebfonts.com">Online Web Fonts</a></sup></sub>
